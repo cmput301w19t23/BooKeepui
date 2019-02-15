@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BooKeep</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">BooKeep</string>
+    <string name="nav_header_user">Jeff Jefferson</string>
+    <string name="nav_header_user_email">jjjeff@ualberta.ca</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
