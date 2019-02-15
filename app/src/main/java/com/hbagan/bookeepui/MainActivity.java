@@ -82,8 +82,9 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_shelf) {
             // Handle the camera action
+            // Change to the Shelf activity here
         } else if (id == R.id.nav_stand) {
-
+            // Change to the Stand activity here
         } else if (id == R.id.nav_about) {
 
         }
